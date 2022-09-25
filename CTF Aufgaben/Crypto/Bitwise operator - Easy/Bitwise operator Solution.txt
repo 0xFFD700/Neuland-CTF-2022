@@ -1,0 +1,5 @@
+#### Bitwise operator - Easy
+
+nland{m491c41_817w153_0p324702}
+
+https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Hex','string':'love'%7D,'Standard',false)&input=YGJvYGp1Yzo3P206P1E2Pzl5Pzs9UT5%2BPTw6OT48cy4

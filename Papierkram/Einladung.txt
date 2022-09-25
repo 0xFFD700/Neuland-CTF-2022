@@ -1,0 +1,55 @@
+Liebe Kommilitonen und Kommilitoninnen,
+
+du findest kreative Lösungen für interessante Probleme und bist technisch affin?
+Dann ist das Neuland CTF an der THI genau das richtige für dich!
+
+Capture the Flag ist ein Wettbewerb bei dem man legal "hacken" kann, du wirst Aufgaben in der Kategorien web, stego, forensic, crypto, osint, re und pwn lösen.
+Für jeden richtigen Hack gibt es eine Flagge, die dir Punkte und einen Platz auf dem Scoreboard sichert.
+Hierfür benötigt ihr keine Vorkenntnisse, der CTF beinhaltet Aufgaben für alle Erfahrungsgerade. 
+Neben dem Kennenlernen von Studierenden mit gleichen Interessen und dem Spaß am Rätsel lösen gibt es natürlich auch kostenloses Essen/Trinken und Preise für die besten Hacker.
+
+Zeit: 02.04.2021, Flaggen können von 10 bis 18 Uhr abgegeben werden, danach ist ein Get-Together mit Snacks geplant.
+Ort: Technische Hochschule Ingolstadt im Raum G107
+Anmeldung: https://ctf.neuland-ingolstadt.de/
+Preise: 1 Platz: 500€ 2/3 Platz: Hack the Box Guthaben (Teams sind erlaubt, Preise gibt es jedoch nur für die besten drei Einzelkämpfer.)
+
+Dieses Event wurde möglich gemacht durch die freundliche Unterstützung unserer Sponsoren:
+- Hauptsponsor: Response (https://www.respon.se/)
+- STRACT
+- Securai (https://www.securai.de/)
+- Löw & Sailer Software (https://loew-sailer.de)
+
+Bitte beachtet, dass dieses Event mit einem 2G Konzept durchgeführt wird!
+
+Wir freuen uns auf viele Anmeldungen und einen spannenden Hacking-Wettbewerb mit euch!
+
+Euer Neuland CTF-Team :)
+
+
+
+
+Dear fellow students, 
+
+you find creative solutions to interesting problems and are technically savvy? 
+Then the Neuland CTF at THI is just right for you! 
+Capture the Flag is a competition where you can legally "hack", you will solve tasks in the categories web, stego, forensic, crypto, osint, re and pwn. 
+For every hack, there is a flag that secures you points and a place on the scoreboard. 
+You do not need any previous knowledge, the CTF includes tasks for all levels of experience.
+In addition to getting to know students with the same interests and having fun solving puzzles, there is of course also free food/drinks and prizes for the best hackers.
+
+Time: 04/02/2021, Flags can be handed in from 10 a.m. to 6 p.m., after which a get-together with snacks is planned.
+Place: Technische Hochschule Ingolstadt in room G107
+Registration: https://ctf.neuland-ingolstadt.de/
+Prizes: 1 place: 500€ 2/3 place: Hack the Box credits (teams are allowed, but prizes are only available for the best three lone fighters.)
+
+This event was made possible by the kind support of our sponsors:
+- Main sponsor: Response (https://www.respon.se/)
+- STRACT
+- Securai (https://www.securai.de/)
+- Löw & Sailer Software (https://loew-sailer.de)
+
+Please note that this event will be held with a 2G concept!
+
+We are looking forward to many registrations and an exciting hacking competition with you!
+
+Your Neuland CTF team :)
