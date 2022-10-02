@@ -1,0 +1,14 @@
+#### Friend or foe - Medium
+
+*A Neuland member lost his office access card, can you duplicate the key?*
+
+<img src="RFID-Card.jpeg" alt="">
+
+</br>
+</br>
+
+According to the description it is an access card, this leads to the assumption that it is an RFID card. If we shine a light through the card, the antenna and chip can be seen. The easiest way to read the data is the NFC reader of a cell phone. This can be done using an app or by activating NFC and bringing the mobile phone into contact with the card. The mobile phone will then be able to read the data and shows the flag.
+
+<img src="RFID-Flag.jpeg" alt="">
+
+The flag is ```nland{1ff_m42k_2}```.
