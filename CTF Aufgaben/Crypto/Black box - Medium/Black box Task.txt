@@ -1,0 +1,12 @@
+Black box
+
+Kategorie: Crypto
+Schwierigkeit: Medium
+Author: Jen
+
+My friend gave me a black box to communicate.
+
+The black box needed to solve the task is in the front.
+Format nland{<message>}
+
+

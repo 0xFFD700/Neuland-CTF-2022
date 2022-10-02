@@ -1,5 +1,12 @@
 #### Bitwise operator - Easy
 
-nland{m491c41_817w153_0p324702}
+*The key to happiness is love.*
+```
+`bo`juc:7?m:?Q6?9y?;=Q>~=<:9><s.
+```
 
-https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Hex','string':'love'%7D,'Standard',false)&input=YGJvYGp1Yzo3P206P1E2Pzl5Pzs9UT5%2BPTw6OT48cy4
+</br>
+
+The headline already implies that it is a bitwise encryption. The description gives the next hint that the key is love. With this information, the most likely cipher is XOR. With the [CyberChef](https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Hex','string':'love'%7D,'Standard',false)&input=YGJvYGp1Yzo3P206P1E2Pzl5Pzs9UT5%2BPTw6OT48cy4) XOR function the string can be decrypted.
+
+The flag is ```nland{m491c41_817w153_0p324702}```.

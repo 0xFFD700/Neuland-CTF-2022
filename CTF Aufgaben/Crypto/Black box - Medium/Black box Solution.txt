@@ -1,0 +1,18 @@
+
+#### Black box - Medium
+
+*My friend gave me a black box to communicate.*
+
+<img src="blackbox.jpeg" alt="">
+
+</br>
+
+On the side of the black box is a translucent opening behind which a LED flashes. If you decode the irregular flashing according to the international Morse code you get the flag.
+
+```
+s   ...
+a   .-
+m   --
+```
+
+The flag is ```nland{sam}```.
