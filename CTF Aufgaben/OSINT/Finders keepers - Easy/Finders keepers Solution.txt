@@ -1,0 +1,17 @@
+#### Finders keepers - Easy
+
+*Can you find the missing person?*
+*Flag format nland{<first name\>_<last name\>} in all lowercase*
+
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/lost_person.jpg" alt="">
+
+</br>
+</br>
+
+An efficient way to find the origin of images on the Internet is Google Images. We upload the image and find out the person it Hugh Herr.
+
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/Solution.png" alt="">
+
+</br>
+
+The flag is ```nland{hugh_herr}```.

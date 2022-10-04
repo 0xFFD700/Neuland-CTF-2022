@@ -1,0 +1,12 @@
+Finders keepers
+
+Kategorie: OSINT
+Schwierigkeit: Easy
+Author: Jen
+
+Can you find the missing person?
+Flag format nland{<first name>_<last name>} in all lowercase
+
+<lost_person.jpg>
+
+
