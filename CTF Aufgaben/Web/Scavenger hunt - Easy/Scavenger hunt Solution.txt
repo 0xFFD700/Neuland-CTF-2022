@@ -1,0 +1,25 @@
+#### Scavenger hunt - Easy
+
+*Can you find all the pieces of the flag?*
+
+</br>
+
+The first part of the flag can be found in the website's page source in the header metatag content.
+
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/meta.png" alt="">
+
+</br>
+
+The second part of the flag is hidden in a cookie called "flag".
+
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/keks.png" alt="">
+
+</br>
+
+The last part of the flag is hidden in the robots.txt file. This file can be used to specify whether and how the website may be visited by a web crawler.
+
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/robots.png" alt="">
+
+</br>
+
+The flag is ```nland{c0nc47_411_7h3_p4rts}```.

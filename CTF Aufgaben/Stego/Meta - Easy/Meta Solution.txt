@@ -1,0 +1,15 @@
+#### Meta - Easy
+
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/nature.jpg" alt="">
+
+</br>
+
+The flag is hidden in the exif tag artist. This can be read using the strings or exif command.
+
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/strings.png" alt="">
+</br>
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/exif.png" alt="">
+
+</br>
+
+The flag is ```nland{w32_h47_un5_v322473n_m374d473n}```.
