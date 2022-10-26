@@ -1,7 +1,7 @@
 Color
 
 Kategorie: Stego
-Schwierigkeit: Hard
+Schwierigkeit: Medium
 Author: Jen
 
 Can you find the hidden message?

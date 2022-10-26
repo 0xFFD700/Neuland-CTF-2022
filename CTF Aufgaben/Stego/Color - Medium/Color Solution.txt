@@ -1,0 +1,11 @@
+#### Color - Medium
+*Can you find the hidden message?*
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/color.png" alt="">
+
+</br>
+
+In the image we can see the outlines of circles and stars that look suspiciously like a QR code. The special thing about QR Codes is that they contain a lot of redundancy and error-handling, so changing shapes does not affect functionality. If we change the color of the outer area to white, we get a scannable QR code containing the flag.
+</br>
+<img src="https://0xffd700.com/bl-content/uploads/pages/2dd0094bca656eac7faa674e3f63c645/QR-Scan.jpeg" alt="">
+</br>
+The flag is ```nland{411_814ck_3v32y7h1n9}```.
