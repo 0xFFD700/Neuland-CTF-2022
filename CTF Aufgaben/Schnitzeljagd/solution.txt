@@ -6,4 +6,4 @@
 - Blätter des Baums enthalten Daten ("NIETE" bzw. Zeichen der Flagge)
 - Breitensuche auf den Baum ergibt die Flagge
 
-Insgesamt 103 Transaktionen, über 64 Accounts. Möglich zu Fuß, aber wesentlich schneller per Script - web3py o.ä.
+Insgesamt 95 Transaktionen, über 96 Accounts. Möglich zu Fuß, aber wesentlich schneller per Script - web3py o.ä.

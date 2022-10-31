@@ -1,15 +1,16 @@
 ---
 title: "Schnitzeljagd im Görli"
 author: Dominik Bayerl
-date: "2022-10-24"
+date: "2022-10-31"
 keywords: [OSINT, Web3, Algorithm]
 difficulty: medium
 lang: "de"
 ...
 
-Abfahrt! →↓ 0xd37a5B7e82c64C2d2BA2285b8D7f8ccBdCfAB231
+Abfahrt! →→→↓ 0x60B268593E71E3ADa6Dc33982d9b2bEBB38C65C1
 
 <details>
   <summary>Tipps</summary>
-  Da stehen eine Menge breiter Bäume im Goerli...
+  - Da stehen eine Menge breiter Bäume im Goerli...
+  - Bounds-Checking ist essentiell.
 </details>
