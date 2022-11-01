@@ -1,0 +1,9 @@
+# Flagge: nland{h4ppy_tree_friend}
+
+# tl;dr 
+- Ethereum-Transaktionen mit assoziierten Calldata
+- Nachverfolgen der Transaktionen ergibt einen Baum
+- Blätter des Baums enthalten Daten ("NIETE" bzw. Zeichen der Flagge)
+- Breitensuche auf den Baum ergibt die Flagge
+
+Insgesamt 95 Transaktionen, über 96 Accounts. Möglich zu Fuß, aber wesentlich schneller per Script - web3py o.ä.
