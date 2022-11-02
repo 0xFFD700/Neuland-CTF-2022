@@ -14,7 +14,7 @@
 #include "monocypher.h"
 
 
-char password[16] = "ysae_oot_yaw";
+__attribute__((section(".data1"))) char password[16] = "ysae_oot_yaw";
 
 void checksum(const char *filename) {
     struct stat statbuf;
@@ -43,13 +43,13 @@ void print_flag() {
         exit(EXIT_FAILURE);
     }
 
-    if(fgets(flag, 1024-1, f) == NULL){
-        printf("Flag could not be read.");
+    if(fgets(flag, 1024, f) == NULL){
+        printf("Flag could not be read.\n");
         exit(EXIT_FAILURE);
     }
 
     fclose(f);
-    puts(flag);
+    printf("👏 %s", flag);
 }
 
 void init() {
@@ -77,8 +77,6 @@ int main(int argc, char* argv[]) {
 
     init();
     checksum(argv[0]);
-
-    printf("%s\n", password);
 
     printf("Enter password:\n🔒 ");
     fgets(buf, 1024, stdin);
