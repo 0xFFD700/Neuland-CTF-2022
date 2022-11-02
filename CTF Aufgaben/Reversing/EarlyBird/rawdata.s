@@ -1,2 +1,2 @@
-.section .payload, "w"
+.section .payload, "3"
 .incbin "payload-memfrob.bin"

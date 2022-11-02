@@ -1,1 +1,1 @@
-nland{DUMMY}
+dummyflag{}
