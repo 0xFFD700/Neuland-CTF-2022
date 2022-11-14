@@ -1,0 +1,11 @@
+Truly magical operator
+
+Kategorie: Crypto
+Schwierigkeit: Medium
+Author: Manu
+
+This time it won't be as easy. Can you figure out the key yourself?
+
+") %!?|-l%ui}rlzpi>v7x7q}'-x8
+
+<encrypt.py>

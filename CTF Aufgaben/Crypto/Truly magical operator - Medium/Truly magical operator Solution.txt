@@ -1,0 +1,13 @@
+#### Truly magical operator - Medium
+
+*This time it won't be as easy. Can you figure out the key yourself?*
+```
+") %!?|-l%ui}rlzpi>v7x7q}'-x8
+```
+
+</br>
+
+We can quickly see that this is a XOR encryption again by looking at the provided encrypt.py. The python script also tells us that the decrypted plaintext will contain "nland{" at the start. The key we are looking for is 6 characters long and only contains letters. 
+We know that XOR is reversible. We can use this to our advantage. As we know that the flag will start with "nland{" we can find the first 6 characters of the key with [CyberChef](https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'UTF8','string':'nland%7B'%7D,'Standard',false)&input=IikgJSE/fC1sJXVpfXJsenBpPnY3eDdxfScteDg). Now we leaked the 6 characters of our key: "LEAKED". If we try this as the key, we can retrieve the flag [CyberChef](https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'UTF8','string':'LEAKED'%7D,'Standard',false)&input=IikgJSE/fC1sJXVpfXJsenBpPnY3eDdxfScteDg).
+
+The flag is ```nland{0h-n0-17-15-r3v3r51bl3}```.
