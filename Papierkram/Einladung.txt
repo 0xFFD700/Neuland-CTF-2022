@@ -1,61 +1,75 @@
-Liebe Kommilitonen und Kommilitoninnen,
+Liebe Kommilitoninnen und Kommilitonen,
 
 du willst hacken lernen oder deine Fähigkeiten in der IT-Sicherheit gegenüber deinen Kommilitonen unter Beweis stellen?
 Dann haben wir gute Neuigkeiten, auch dieses Semester wird es wieder einen Neuland CTF geben.
 
 Capture the Flag (CTF) ist ein Wettbewerb, der es euch ermöglicht legal zu hacken und spannende Challenges zu lösen.
 Für jeden richtige Challenge gibt es eine Flagge, die dir Punkte und einen Platz auf dem Scoreboard sichert.
-Es werden keine Vorkenntnisse benötigt, der CTF beinhaltet Aufgaben in verschiedenen Kategorien und Schwierigkeitsstufen.
+Es werden keine Vorkenntnisse benötigt, der CTF beinhaltet Aufgaben in verschiedenen Kategorien und Schwierigkeitsstufen von einfach bis schwer.
 
-Das Event findet am 03.12.2021 an der Technische Hochschule Ingolstadt im Raum <Raum> statt.
+Das Event findet am 03.12.2022 an der Technische Hochschule Ingolstadt im Raum G215 statt.
+
 Zeitplan:
-- 10-18 Uhr Einführung
-- 11-18 Uhr CTF
-- 18-20 Uhr Get-together 
+- 10:30 - 11:00 Uhr Begrüßung und Einführung
+- 11:00 - 19:00 Uhr CTF Wettkampfzeitraum
+- 19:00 - 21:00 Uhr Get Together 
+
 Bitte beachtet, dass eine Teilnahme nur nach Anmeldung unter https://ctf.neuland-ingolstadt.de/ möglich ist!
-Ihr könnt alleine oder mit einem Team von bis zu 4 Personen teilnehmen. 
+Ihr könnt alleine oder mit einem Team von bis zu 3 Personen teilnehmen. 
 
 Preise: 
-1. Platz: 
-2. Platz:
-3. Platz:
+1. Team: 300 € 
+2. Team: 200 €
+3. Team: 100 €
+4. - 8. Team: 15 € Gutschein pro Teammitglied
+
 Neben Preisen für die besten Teilnehmer stellen wir Getränke, Mittag- und Abendessen sowie T-Shirts und Sticker für alle Teilnehmer bereit.
 
 Dieses Event wurde möglich gemacht durch die freundliche Unterstützung unserer Sponsoren:
--
--
--
+- CARIAD (https://cariad.technology/)
+- DONAT IT (https://www.donat-it.de/)
+- e:fs TechHub (https://www.efs-auto.com/)
+- Securai (https://www.securai.de/)
+- Cognizant Mobility (https://cognizant-mobility.com/)
 
+
+Euer Neuland CTF Team :)
+
+---
 
 Dear fellow students,
 
 Do you want to learn how to hack or challenge your skills in IT security?
-There`s good news, Neuland CTF returns this semester.
+There is good news, Neuland CTF returns this semester.
 
 Capture the Flag (CTF) is a competition that allows you to hack legally and solve exciting challenges.
-For each correct challenge there is a flag that will give you points and a place on the scoreboard.
-No previous knowledge is required, the CTF contains tasks in different categories and levels of difficulty.
+For each correct challenge there is a flag that will grant you points and a place on the scoreboard.
+No previous knowledge is required, the CTF contains tasks in different categories and levels of difficulty from easy to hard.
 
-The event will take place on December 3rd, 2021 at the Technical University of Ingolstadt in the room <room>.
+The event will take place on December 3rd, 2022 at the Technische Hochschule Ingolstadt in the room G215.
+
 Time schedule:
-- 10am-6pm Introduction
-- 11am-6pm CTF
-- 6-8 p.m. get-together
+- 10:30 a.m. - 11:00 a.m. Opening and introduction
+- 11:00 a.m. - 07:00 p.m. CTF competition time
+- 07:00 p.m. - 09:00 p.m. Get together
+
 Please note that participation is only possible after registration at https://ctf.neuland-ingolstadt.de/!
-You can participate alone or with a team of up to 4 people.
+You can participate alone or with a team of up to 3 people.
 
 Prices:
-1st place:
-2nd place:
-3rd place:
-In addition to prizes for the best participants, we will provide drinks, lunch and dinner as well as t-shirts and stickers for all participants.
+1st team: 300 €
+2nd team: 200 €
+3rd team: 100€
+4th - 8th team: 15 € voucher for each team member
+
+In addition to prizes for the best participants, we will provide drinks, lunch and dinner as well as T-shirts and stickers for all participants.
 
 This event was made possible with the kind support of our sponsors:
--
--
--
+- CARIAD(https://cariad.technology/)
+- DONAT IT (https://www.donat-it.de/)
+- e:fs TechHub (https://www.efs-auto.com/)
+- Securai (https://www.securai.de/)
+- Cognizant Mobility (https://cognizant-mobility.com/)
 
 
 Your Neuland CTF team :)
-
-
