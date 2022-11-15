@@ -1,0 +1,12 @@
+# Flagge: !TODO!
+
+Challenge sieht auf den ersten Blick sehr einfach aus ("baby"), hat jedoch einige
+fiese Tricks
+
+# tl;dr
+- crt0 init hook für Code Injection vor main()-Funktion
+- init-hook erkennt, wenn ein Debugger verwendet wird => mit gdb läuft das
+Programm wie auf den ersten Blick ab
+- lädt obfuscated shellcode nach, der das Programm in-memory patcht
+- Passwort wird dadurch geändert, von "way_too_easy" auf "crt0_trickzz"
+- verräterische Symbols werden obfuskiert
