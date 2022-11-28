@@ -1,0 +1,38 @@
+version: "3.9"
+services:
+  pwn1:
+    build:
+      context: "./PWN/h4ck3r - Medium/Private"
+    restart: always
+    ports:
+      - "8081:4000"
+  pwn2:
+    build:
+      context: "./PWN/Log4Flag - Hard/Private"
+    restart: always
+    ports:
+      - "8082:4000"
+  pwn3:
+    build:
+      context: "./PWN/Password Guessing - Easy/Private"
+    restart: always
+    ports:
+      - "8083:4000"
+  rev1:
+    build:
+      context: "./REV/EarlyBird"
+    restart: always
+    ports:
+      - "8084:1337"
+  web1:
+    build:
+      context: "./Web/Into the Backrooms - Easy Medium Hard/Private"
+    restart: always
+    ports:
+      - "8085:8000"
+  web2:
+    build:
+      context: "./Web/Scavenger hunt - Easy/Scavenger hunt"
+    restart: always
+    ports:
+      - "8086:80"
