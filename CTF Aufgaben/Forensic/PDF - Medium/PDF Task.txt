@@ -1,0 +1,9 @@
+PDF
+
+Kategorie: Forensik
+Schwierigkeit: Medium
+Author: Jen
+
+I received a weird PDF from a friend.
+
+<payload.pdf>

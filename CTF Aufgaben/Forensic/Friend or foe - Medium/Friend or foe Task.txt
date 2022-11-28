@@ -1,0 +1,9 @@
+Friend or foe
+
+Kategorie: Forensik
+Schwierigkeit: Medium
+Author: Jen
+
+A Neuland member lost his office access card, can you duplicate the key?
+
+Pick up a access cards from the CTF orga and return it after completing the task.
