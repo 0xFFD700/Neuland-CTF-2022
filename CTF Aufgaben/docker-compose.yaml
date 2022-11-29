@@ -30,6 +30,8 @@ services:
     restart: always
     ports:
       - "8085:8000"
+    env_file:
+      - "./Web/Into the Backrooms - Easy Medium Hard/Private/env.list"
   web2:
     build:
       context: "./Web/Scavenger hunt - Easy/Scavenger hunt"
