@@ -1,0 +1,8 @@
+Securing our perimeter
+
+Kategorie: Misc
+Schwierigkeit: Easy
+Autor: Alex
+
+We've got to secure our perimeter. Evil lurks everywhere, even in your own office.
+
