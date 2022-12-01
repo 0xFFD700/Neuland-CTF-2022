@@ -5,7 +5,7 @@
 The checkout function is still under development. Only the admin account is allowed to use it for testing. Don't even try to find a loophole and to dig deeper.*
 
 *Connection information: <br>
-*hostname:8085*
+*summit.informatik.sexy:8085*
 
 <br>
 

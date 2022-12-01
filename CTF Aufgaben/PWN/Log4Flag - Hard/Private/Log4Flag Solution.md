@@ -3,7 +3,7 @@
 *There is this program that is supposed to give me the flag. However, even if I beg for it and say the magic word, it won't return it. Try to lookup the flag.*
 
 *You can test your solution locally. Connect to the server once it works to retrieve to flag:* <br>
-*nc hostname 8082*
+*nc summit.informatik.sexy 8082*
 
 <br>
 
@@ -13,7 +13,7 @@
 
 This is the response if we connect to the server:
 ```
-$ nc hostname port
+$ nc summit.informatik.sexy port
 Do you want the flag?
 yes
 Try Harder! <3

@@ -5,7 +5,7 @@
 It seems like you were somehow able to execute the checkout function. Impressive. But seriously, you need to stop. There is now way that you are able to read the last flag. Don't even try.*
 
 *Connection information: <br>
-*hostname:8085*
+*summit.informatik.sexy:8085*
 
 <br>
 

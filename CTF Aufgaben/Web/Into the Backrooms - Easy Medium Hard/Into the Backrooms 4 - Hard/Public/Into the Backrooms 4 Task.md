@@ -10,6 +10,6 @@ It seems like you were somehow able to execute the checkout function. Impressive
 
 Connection information:
 
-hostname:8085
+summit.informatik.sexy:8085
 
 [into_the_backrooms.zip](../../Public/into_the_backrooms.zip)

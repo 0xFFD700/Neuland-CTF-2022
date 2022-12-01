@@ -5,7 +5,7 @@
 Once you are logged in it is also possible to buy stuff. Have a look at our offers.*
 
 *Connection information: <br>
-*hostname:8085*
+*summit.informatik.sexy:8085*
 
 <br>
 

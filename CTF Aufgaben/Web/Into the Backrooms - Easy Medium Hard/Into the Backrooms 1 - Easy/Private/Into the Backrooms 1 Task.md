@@ -10,6 +10,6 @@ I am currently working on the backend of a new shop system. It is still in devel
 
 Connection information:
 
-hostname:8085
+summit.informatik.sexy:8085
 
 [into_the_backrooms.zip](../../Public/into_the_backrooms.zip)

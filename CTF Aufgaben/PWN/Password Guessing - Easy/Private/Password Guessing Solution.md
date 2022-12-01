@@ -4,7 +4,7 @@
 PS: You definitly need the password to get the flag. There is no way around.*
 
 *You can test your solution locally. Connect to the server once it works to retrieve to flag:* <br>
-*nc hostname 8083*
+*nc summit.informatik.sexy 8083*
 
 <br>
 
@@ -26,7 +26,7 @@ nland{dummy-flag}
 Executed on the server we get the flag:
 
 ```
-$ nc hostname port
+$ nc summit.informatik.sexy port
 Guess the random password:
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 Wrong Password

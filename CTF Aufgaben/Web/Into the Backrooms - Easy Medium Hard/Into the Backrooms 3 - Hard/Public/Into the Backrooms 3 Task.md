@@ -10,6 +10,6 @@ The checkout function is still under development. Only the admin account is allo
 
 Connection information:
 
-hostname:8085
+summit.informatik.sexy:8085
 
 [into_the_backrooms.zip](../../Public/into_the_backrooms.zip)

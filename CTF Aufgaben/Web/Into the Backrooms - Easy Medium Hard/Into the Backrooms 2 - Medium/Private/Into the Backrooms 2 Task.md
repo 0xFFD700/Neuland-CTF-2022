@@ -10,6 +10,6 @@ Once you are logged in it is also possible to buy stuff. Have a look at our offe
 
 Connection information:
 
-hostname:8085
+summit.informatik.sexy:8085
 
 [into_the_backrooms.zip](../../Public/into_the_backrooms.zip)

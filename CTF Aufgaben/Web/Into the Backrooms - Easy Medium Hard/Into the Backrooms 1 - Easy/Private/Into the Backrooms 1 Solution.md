@@ -5,7 +5,7 @@
 I am currently working on the backend of a new shop system. It is still in development and not finished. Have a look for yourself and try to log into an account.*
 
 *Connection information: <br>
-*hostname:8085*
+*summit.informatik.sexy:8085*
 
 <br>
 

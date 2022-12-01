@@ -6,6 +6,6 @@ Author: Jen
 
 Can you find all the pieces of the flag?
 
-<url:8086>
+Connection information:
 
-
+summit.informatik.sexy:8086

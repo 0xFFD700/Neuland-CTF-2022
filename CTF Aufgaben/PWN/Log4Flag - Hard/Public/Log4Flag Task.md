@@ -8,6 +8,6 @@ There is this program that is supposed to give me the flag. However, even if I b
 
 You can test your solution locally. Connect to the server once it works to retrieve to flag:
 
-nc hostname 8082
+nc summit.informatik.sexy 8082
 
 [Log4Flag.zip](Log4Flag.zip)

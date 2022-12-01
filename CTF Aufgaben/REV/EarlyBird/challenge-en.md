@@ -8,3 +8,7 @@ lang: "en"
 ...
 
 The early bird catches the baby.
+
+Connection information:
+
+nc summit.informatik.sexy:8084
