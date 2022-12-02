@@ -38,3 +38,16 @@ services:
     restart: always
     ports:
       - "8086:80"
+  web-sql:
+    build:
+      context: "./Web/SQL Injection - Easy"
+    restart: always
+    ports:
+      - "8087:3000"
+  web-shell:
+    build:
+      context: "./Web/Shell Injection - Easy"
+    restart: always
+    ports:
+      - "8088:3000"
+
