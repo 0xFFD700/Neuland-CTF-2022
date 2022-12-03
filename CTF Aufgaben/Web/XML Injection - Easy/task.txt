@@ -1,0 +1,9 @@
+XML is stupid
+
+Kategorie: Web
+Schwierigkeit: Easy
+Autor: Alex
+
+There's a reason why JSON became so popular.
+
+The flag is in /opt/next/flag.txt.
