@@ -2,6 +2,8 @@
 
 The program asks for a password. The challenge is to get the password through reversing the binary. There is some string stacking implemented within the binary.
 
+The solution requires to reverse the binary and check which variables are used to fulfill the last `if`. Another solution requires to check what the last `print` prints. This is the flag, if the user provided the correct password. However, the printed variable (`v4`) is stacked too, which requires some work to determine which strings are used to build the flag.
+
 ```go
 package main
 
