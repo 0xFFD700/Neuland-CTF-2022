@@ -155,7 +155,7 @@ address, we finally find the culprit function. The password (`way_too_easy`)
 gets patched by a code stub that is injected in-memory.
 - Applying the XOR-operations manually confirms the password `crt0_trickzz`.
 
-![](image/ghidra_401755.png)
+![](image/ghidra_edit.png)
 
 Finally, we can use this alternative password to retrieve the flag from the 
 server. The flag is `nland{c47ch35_7h3_w02m}`.
